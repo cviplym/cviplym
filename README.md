@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Yeongmin 👋
 
-<!--
-**cviplym/cviplym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer focused on vision-language systems and structure-aware optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Work
+
+### 🧠 VLM-based CCTV Event Classification
+- Qwen3-VL fine-tuning
+- Text-guided frame index
+- Real-time TCP pipeline
+
+### 😊 Continuous Label Facial Expression Synthesis
+- Expression Adaptive Network (EAN)
+- Representation sparsity analysis
+- Identity-expression tradeoff solving
+
+### 🎭 Region-aware 3D Gaussian Splatting
+- FLAME-based mask learning
+- Region-aware displacement training
+
+---
+
+## 🛠️ Interests
+
+- Vision-Language Models (VLM)
+- Generative Models
+- Real-time ML Systems
+- Structure-aware learning
+
+---
+
+## 📫 Contact
+
+- Email: your_email
