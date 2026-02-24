@@ -33,4 +33,4 @@ ML Engineer focused on vision-language systems and structure-aware optimization.
 
 ## 📫 Contact
 
-- Email: your_email
+- Email: lym051010@gmail.com
